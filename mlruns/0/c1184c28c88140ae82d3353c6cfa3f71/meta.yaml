@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/c1184c28c88140ae82d3353c6cfa3f71/artifacts
+end_time: 1719999051913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1184c28c88140ae82d3353c6cfa3f71
+run_name: classy-hen-307
+run_uuid: c1184c28c88140ae82d3353c6cfa3f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999051901
+status: 4
+tags: []
+user_id: mle-user

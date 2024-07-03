@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/57a5e8e7e5a349adb695c3bc3b297a57/artifacts
+end_time: 1719999322434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57a5e8e7e5a349adb695c3bc3b297a57
+run_name: righteous-moth-500
+run_uuid: 57a5e8e7e5a349adb695c3bc3b297a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999322413
+status: 3
+tags: []
+user_id: mle-user

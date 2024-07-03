@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/80a7c39bf1e542aaa1fb294d943938d6/artifacts
+end_time: 1719998965561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80a7c39bf1e542aaa1fb294d943938d6
+run_name: polite-hen-458
+run_uuid: 80a7c39bf1e542aaa1fb294d943938d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719998965554
+status: 4
+tags: []
+user_id: mle-user

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/6c565da04c414062b7a9255e03c41ef5/artifacts
+end_time: 1719999102336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c565da04c414062b7a9255e03c41ef5
+run_name: chill-dove-896
+run_uuid: 6c565da04c414062b7a9255e03c41ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999102329
+status: 4
+tags: []
+user_id: mle-user

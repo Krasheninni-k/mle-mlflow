@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/9bf36aa6c0ec437bbf3b6896dcdee262/artifacts
+end_time: 1719999391087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bf36aa6c0ec437bbf3b6896dcdee262
+run_name: legendary-ape-968
+run_uuid: 9bf36aa6c0ec437bbf3b6896dcdee262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999391034
+status: 3
+tags: []
+user_id: mle-user

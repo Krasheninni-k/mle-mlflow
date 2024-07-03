@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/d66fa8d1bc5f4419bbbcf01f7f167b93/artifacts
+end_time: 1719999447614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d66fa8d1bc5f4419bbbcf01f7f167b93
+run_name: nimble-sheep-836
+run_uuid: d66fa8d1bc5f4419bbbcf01f7f167b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999447572
+status: 3
+tags: []
+user_id: mle-user
