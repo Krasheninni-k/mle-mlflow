@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1722002597967
+current_stage: None
+description: null
+last_updated_timestamp: 1722002597967
+name: model_krosh_3
+run_id: cd623996fe23447189b89683296e8aa2
+run_link: null
+source: file:///home/mle-user/mle_projects/mle-mlflow/sprint_1_model/mlruns/880669955312182065/cd623996fe23447189b89683296e8aa2/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 4
